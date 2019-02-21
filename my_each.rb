@@ -7,5 +7,7 @@ def my_each(words)
     i += 1
   end
 
-  my_each(words)
+
 end
+
+my_each(words)
