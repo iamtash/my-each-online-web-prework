@@ -10,4 +10,4 @@ def my_each(words)
 
 end
 
-my_each(words)
+
