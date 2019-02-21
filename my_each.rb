@@ -8,4 +8,4 @@ def my_each(words)
   end
 end
 
-my_each(words) {|word| puts word}
+my_each(collection) {|word| puts word}
